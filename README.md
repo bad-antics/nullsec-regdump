@@ -61,7 +61,7 @@ gdc -O3 regdump.d -o regdump
 
 ## Author
 
-bad-antics | [Discord](https://discord.gg/killers)
+bad-antics | [Discord](https://x.com/AnonAntics)
 
 ## License
 
