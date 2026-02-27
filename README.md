@@ -61,7 +61,7 @@ gdc -O3 regdump.d -o regdump
 
 ## Author
 
-bad-antics | [Discord](https://x.com/AnonAntics)
+bad-antics | [Twitter](https://x.com/AnonAntics)
 
 ## License
 
